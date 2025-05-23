@@ -9,7 +9,7 @@ Este projeto demonstra o uso de **componentes React**, **props** e **eventos**. 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/GuiTavs7/quest-react-basico.git
+   git clone https://github.com/GuiTavs7/quest_react_basico.git
    cd quest_react_basico
    ```
 
