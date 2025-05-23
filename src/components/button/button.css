@@ -1,0 +1,14 @@
+button{
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: white;
+    color: blueviolet;
+    transition: 1s ease-in-out;
+}
