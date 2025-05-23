@@ -1,12 +1,38 @@
-# React + Vite
+# React Components + Lists + Events
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 React Components + Lists + Events
 
-Currently, two official plugins are available:
+Este projeto demonstra o uso de **componentes React**, **props** e **eventos**. Trata-se de uma quest/desafio do curso Dev Quest!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Instalação
 
-## Expanding the ESLint configuration
+1. Clone o repositório:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+   ```bash
+   git clone https://github.com/GuiTavs7/quest-react-basico.git
+   cd quest_react_basico
+   ```
+
+2. Instale as dependências:
+
+   ```bash
+   npm install
+   ```
+
+## ▶️ Executando o Projeto
+
+Inicie o servidor de desenvolvimento com:
+
+```bash
+npm run dev
+```
+
+O projeto estará disponível em: [http://localhost:5173](http://localhost:5173) (ou conforme indicado no terminal).
+
+## 🛠 Tecnologias Utilizadas
+
+* React
+* Vite
+* JavaScript 
+* HTML5
+* CSS3
